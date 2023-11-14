@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maccabipedia2", "Maccabipedia2\Maccabipedia2.csproj", "{F7005CCD-529A-4E62-AAB0-AEA2DBDC76CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7005CCD-529A-4E62-AAB0-AEA2DBDC76CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7005CCD-529A-4E62-AAB0-AEA2DBDC76CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7005CCD-529A-4E62-AAB0-AEA2DBDC76CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7005CCD-529A-4E62-AAB0-AEA2DBDC76CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36755B6A-E3AB-49E5-B03B-61496BEC001A}
+	EndGlobalSection
+EndGlobal
